@@ -1,0 +1,25 @@
+{
+  "name": "bhtrans-crawler",
+  "version": "0.1.0",
+  "description": "Information about bus line itineraries for those who live in Belo Horizonte, Brazil! Enjoy!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crawler",
+    "bus",
+    "brazil",
+    "bh"
+  ],
+  "author": "Giorgio Lucca",
+  "license": "MIT",
+  "dependencies": {
+    "array-first": "^1.0.2",
+    "cli-table": "^0.3.1",
+    "jsdom": "^9.12.0",
+    "request": "^2.81.0",
+    "sprintf-js": "^1.0.3",
+    "util": "^0.10.3"
+  }
+}
